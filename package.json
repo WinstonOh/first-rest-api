@@ -1,0 +1,23 @@
+{
+  "name": "first-rest-api",
+  "version": "1.0.0",
+  "description": "With NodeJs, ExpressJS and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinstonOh/first-rest-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WinstonOh/first-rest-api/issues"
+  },
+  "homepage": "https://github.com/WinstonOh/first-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
